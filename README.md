@@ -2,7 +2,7 @@
 
 A PowerShell-based tool for documenting and managing Microsoft Purview configuration settings across Microsoft 365 tenants (Entra ID directories).
 
-> **Note:** This is an independent project by John Spaid and is **not an official Microsoft product**. While the author works at Microsoft, this tool is provided as-is under the MIT License without warranty or official support from Microsoft Corporation.
+> **Note:** This is an independent project by John Spaid and is **not an official Microsoft product**. While the author works at Microsoft, this tool is provided as-is under the GNU General Public License v3.0 without warranty or official support from Microsoft Corporation.
 
 ## Overview
 
@@ -324,7 +324,7 @@ This ensures the software and all improvements remain free and open source forev
 
 **John Spaid**
 
-This is an independent, personal project. The author is employed by Microsoft but this tool is not affiliated with, endorsed by, or supported by Microsoft Corporation. It is provided as a community contribution under the MIT License.
+This is an independent, personal project. The author is employed by Microsoft but this tool is not affiliated with, endorsed by, or supported by Microsoft Corporation. It is provided as a community contribution under the GNU General Public License v3.0.
 
 ## Project Status
 
